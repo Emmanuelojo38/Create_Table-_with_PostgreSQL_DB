@@ -2,3 +2,4 @@
 
 using python and postgreSQL database adapter to create a database and table in the database..
 Insert data into the table created.
+Using STAR Schema as Data modelling technique..
